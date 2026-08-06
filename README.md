@@ -1,13 +1,3 @@
-*firesoft por gato do mato*
+# PocketFine-MP software baseado em PocketMine para servidores de mcpe
 
-para iniciar o servidor, jogue a pasta pocketmine na pasta inicial do seu pc, abra o terminal e digite 
-
-cd pocketmine
-
-./start.sh
-
-ele iniciará o servidor, eu já deixei tudo configurado, se quiserem configurar apaguem tudo da pasta de modo que deixe apenas a API, o arquivo bin e o start.sh
-
-espero ter ajudado.. Se inscreva para mais tutoriais
-
-www.youtube.com/@KuantPlay
+<img width="256" height="256" alt="PFFP" src="https://github.com/user-attachments/assets/b30bf23b-329a-4974-bc6f-a55143299265" />
